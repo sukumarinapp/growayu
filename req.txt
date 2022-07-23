@@ -1,0 +1,11 @@
+>> Editable price for billing amount 
+
+>> bill template A4 sheet half size of width  to be given
+
+>> SMS Sender id 
+>>BroadCast
+
+
+>>billing report  printable and total amount to be calulated in the last row 
+
+>>consultation outpay module 
